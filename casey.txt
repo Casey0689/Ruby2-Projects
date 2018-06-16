@@ -1,0 +1,3 @@
+Casey,human, 150, 50, 10
+great sword, 33
+dragon male, 100
